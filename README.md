@@ -1,16 +1,38 @@
-### Hi there 👋
+### Hi, I'm Noor! 👋
 
-<!--
-**noorelyass/noorelyass** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a computer science and mathematics student at the University of Toronto. Welcome to my GitHub profile!
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 Currently pursuing an Honours Bachelor of Science with a Specialist in Computer Science, Major in Mathematics, and Minor in Statistics.
+- 💻 Skilled in Python, Java, C, and more. I love diving into new technologies and frameworks.
+- 🌱 Always learning and exploring new ideas, especially in the fields of machine learning, economics, and software engineering.
+
+## Projects
+
+### Personalized Health Analysis
+- Collaborated on a project focused on analyzing personalized health data to provide tailored recommendations.
+- Utilized machine learning techniques such as k-NN and advanced metrics like Wasserstein and Euclidean distances.
+- Developed algorithms for creating personalized plans based on optimal transport distances and barycenters.
+
+### Expense Tracker
+- Developed an expense tracker application using PyQt5 for the GUI.
+- Utilized a SQLite database for local storage of expense records.
+- Enabled CRUD operations for managing expenses within the application.
+- Implemented data visualization using Plotly Express and pandas.
+- [Explore the project!](#)
+
+## Skills
+
+- **Languages:** Python, Java, C, HTML, R, Logisim/Verilog, PostgreSQL, JavaScript, CSS, Django
+- **Tools & Frameworks:** SciPy, PyQt5, Plotly Express, pandas
+- **Languages:** Fluent in English and Arabic, proficient in French (B2)
+
+## Get in Touch
+
+- LinkedIn: [Noor Elyass](#)
+- Email: [noor.elyass@mail.utoronto.ca](mailto:noor.elyass@mail.utoronto.ca)
+- Personal Website: [www.noor-elyass.com](#)
+
+Feel free to explore my projects and get in touch! I'm always open to collaborations and new opportunities.
+
