@@ -37,7 +37,7 @@ Here are some of my interests!
 
 ## Get in Touch
 
-- LinkedIn: [Noor Elyass](www.linkedin.com/in/noorelyass)
+- LinkedIn: [Noor Elyass](https://www.linkedin.com/in/noorelyass)
 - Email: [noor.elyass@mail.utoronto.ca](mailto:noor.elyass@mail.utoronto.ca)
 - Personal Website: [www.noor-elyass.com](#)
 
