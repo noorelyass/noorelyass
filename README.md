@@ -8,6 +8,13 @@ I'm a computer science and mathematics student at the University of Toronto. Wel
 - 💻 Skilled in Python, Java, C, and more. I love diving into new technologies and frameworks.
 - 🌱 Always learning and exploring new ideas, especially in the fields of machine learning, economics, and software engineering.
 
+### Interests
+
+- **Machine Learning & Health:** Fascinated by the potential of machine learning to revolutionize healthcare, I'm deeply interested in leveraging data-driven approaches to improve patient outcomes and personalize healthcare interventions.
+- **Financial Technology:** Passionate about exploring the intersection of finance and technology, I'm excited about developing innovative solutions that promote financial literacy, inclusion, and well-being.
+- **Applications for Social Good:** Committed to leveraging technology for social impact, I'm eager to contribute my skills and knowledge to projects that address pressing societal challenges and promote equity and justice.
+
+
 ## Projects
 
 ### Personalized Health Analysis
