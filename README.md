@@ -1,6 +1,6 @@
 ### Hi, I'm Noor! 👋
 
-I'm a computer science and mathematics student at the University of Toronto. Welcome to my GitHub profile!
+I'm a computer science and mathematics student at the University of Toronto.
 
 ## About Me
 
