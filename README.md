@@ -1,10 +1,10 @@
 ### Hi, I'm Noor! 👋
 
-I'm a computer science and mathematics student at the University of Toronto.
+I'm a computer science, statistics and mathematics student at the University of Toronto.
 
 ## About Me
 
-- 🎓 Currently pursuing an Honours Bachelor of Science with a Specialist in Computer Science, Major in Mathematics, and Minor in Statistics.
+- 🎓 Currently pursuing an Honours Bachelor of Science with a Specialist in Computer Science, Major in Statistics, and Minor in Mathematics.
 - 💻 Skilled in Python, Java, C, and more. I love diving into new technologies and frameworks.
 - 🌱 Always learning and exploring new ideas, especially in the fields of machine learning, economics, and software engineering.
 
