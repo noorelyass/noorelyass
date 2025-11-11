@@ -8,4 +8,5 @@ Outside of tech, I love exploring financial technology, following new developmen
 
 #### Let's connect!
 [<img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230E76A8.svg?&style=for-the-badge&logo=LinkedIn&logoColor=white" />](https://linkedin.com/in/noorelyass)
-[<img alt="Email" src="https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=Gmail&logoColor=white" />](mailto:noor.elyass@mail.utoronto.ca)
+[<img alt="Email" src="https://img.shields.io/badge/Email-%230E76A8.svg?style=for-the-badge&logoColor=white" />](mailto:noor.elyass@mail.utoronto.ca)
+
